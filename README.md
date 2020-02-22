@@ -1,2 +1,3 @@
 # Oizah.github.io
-This repository is a collection of my data analysis and visualization projects with pandas & matplotlib using jupyter notebooks.
+This repository is a collection of my Data Analysis and Visualization Projects using Pandas, SQL & Matplotlib on Jupyter Notebooks.
+See my Projects on https://Oizah.github.io
